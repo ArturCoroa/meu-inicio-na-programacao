@@ -1,4 +1,4 @@
-# meu-incio-na-programacao
+meu início na Programação 
 comecei hoje minha jornada em desenvolvimento de sistemas.
 estou fazendo o curso de python do aprenda mais mec para começar minha carreira Full Stack.
 🎯 objetivo: migrar de carreira e me torna desenvolvedor Full Stack
